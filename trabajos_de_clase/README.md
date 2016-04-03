@@ -10,4 +10,3 @@ Ejercicios de teoría propuestos en clase
 * [Ejercicios Tema 6](Tema6/README.md)
 * [Ejercicios Tema 7](Tema7/README.md)
 * [Ejercicios Tema 8](Tema8/README.md)
-* [Ejercicios Tema 9](Tema9/README.md)
