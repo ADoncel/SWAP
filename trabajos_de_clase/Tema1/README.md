@@ -19,10 +19,12 @@ También utilizando apache potenciamos la mejora del posicionamiento. El servido
 Prácticamente realiza las mismas funciones que apache con algunas diferencias.
 Nginx es mucho más rápido y consume menos memoria que Apache como podemos ver en estas graficas:
 
-<div>
-	<img src="request_per_second.bmp">
-	<img src="memory_usage.bmp">
-</div>
+<table>
+	<tr>
+		<td><img src="request_per_second.bmp"></td>
+		<td><img src="memory_usage.bmp"></td>
+	</tr>
+</table>
 
 Lo podemos usar junto al servidor Apache ya que Nginx no reproduce contenido dinámico como PHP, Phyton, Ruby, etc… por eso muchas empresas optan por usar Nginx para su contenido estático y Apache para el dinámico.
 
