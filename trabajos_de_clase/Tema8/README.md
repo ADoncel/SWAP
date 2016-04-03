@@ -1,3 +1,6 @@
-# SWAP Servidores Web De Altas Prestaciones
+Ejercicios propuestos para el Tema 8
+====================================
+Antonio Doncel Campos
+------------------------------------
 
-En este repositorio se incluiran los trabajos de clase, practicas realizadas y trabajo final de teoria.
+**8.1 Buscar información sobre tipos de conexiones de red utilizados especialmente en arquitecturas de servidores web de altas prestaciones.**

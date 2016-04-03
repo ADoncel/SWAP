@@ -1,3 +1,15 @@
-# SWAP Servidores Web De Altas Prestaciones
+Ejercicios propuestos para el Tema 6
+====================================
+Antonio Doncel Campos
+------------------------------------
 
-En este repositorio se incluiran los trabajos de clase, practicas realizadas y trabajo final de teoria.
+**6.1 Aplicar con iptables una política de denegar todo el tráfico en una de las máquinas de prácticas.
+Comprobar el funcionamiento.
+
+Aplicar con iptables una política de permitir todo el tráfico en una de las máquinas de prácticas.
+Comprobar el funcionamiento.**
+
+**6.2 Comprobar qué puertos tienen abiertos nuestras máquinas,
+su estado, y qué programa o demonio lo ocupa.**
+
+**6.3 Buscar información acerca de los tipos de ataques más comunes en servidores web, en qué consisten, y cómo se pueden evitar.**
