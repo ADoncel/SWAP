@@ -4,8 +4,8 @@ Antonio Doncel Campos
 --------------------------------------------------
 
 **En esta práctica se llevarán a cabo, como mínimo, las siguientes tareas:**
-	* Configurar una máquina e instalarle el nginx como balanceador de carga
-	* Configurar una máquina e instalarle el haproxy como balanceador de carga
+* **Configurar una máquina e instalarle el nginx como balanceador de carga**
+* **Configurar una máquina e instalarle el haproxy como balanceador de carga**
 	
 **En ambos casos, debemos hacer peticiones a la dirección IP principal y comprobar
 que realmente se reparte la carga.**
