@@ -5,9 +5,9 @@ Antonio Doncel Campos
 
 **En esta práctica el objetivo es configurar las máquinas virtuales para trabajar en modo
 espejo, consiguiendo que una máquina secundaria mantenga siempre actualizada la
-información que hay en la máquina servidora principal.
+información que hay en la máquina servidora principal.**
 
-Hay que llevar a cabo las siguientes tareas:**
+**Hay que llevar a cabo las siguientes tareas:**
 	* Probar el funcionamiento de la copia de archivos por ssh
 	* Clonado de una carpeta entre las dos máquinas
 	* Configuración de ssh para acceder sin que solicite contraseña
