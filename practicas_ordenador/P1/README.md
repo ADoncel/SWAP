@@ -3,9 +3,7 @@ Práctica 1 - Presentación de las prácticas y preparación de las herramientas
 Antonio Doncel Campos
 ----------------------------------------------------------------------------
 
-**Como resultado de la práctica 1 se mostrarán las máquinas funcionando al profesor en
-clase. Asimismo, se debe copiar el resultado de ejecutar los siguientes comandos en
-el terminal:**
+**Como resultado de la práctica 1 se mostrarán las máquinas funcionando al profesor en clase. Asimismo, se debe copiar el resultado de ejecutar los siguientes comandos en el terminal:**
 
 * **apache2 -v**
 * **ps aux | grep apache**

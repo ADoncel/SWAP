@@ -3,34 +3,18 @@ Práctica 4 - Comprobar el rendimiento de servidores web
 Antonio Doncel Campos
 --------------------------------------------------
 
-**En esta práctica se deben usar las dos herramientas para medir, primero el
-rendimiento de una sola máquina servidora (haciendo peticiones a la IP de la máquina
-1, p.ej.), y a continuación el rendimiento de la granja web cuando usamos balanceo de
-carga tanto con nginx como con haproxy (haciendo las peticiones a la dirección IP del
-balanceador).**
+**En esta práctica se deben usar las dos herramientas para medir, primero el rendimiento de una sola máquina servidora (haciendo peticiones a la IP de la máquina 1, p.ej.), y a continuación el rendimiento de la granja web cuando usamos balanceo de carga tanto con nginx como con haproxy (haciendo las peticiones a la dirección IP del balanceador).**
 
-**Todas las ejecuciones se harán desde una máquina independiente a las que forman la
-granja web, ya sea un terminal de la máquina anfitriona u otra máquina virtual nueva.**
+**Todas las ejecuciones se harán desde una máquina independiente a las que forman la granja web, ya sea un terminal de la máquina anfitriona u otra máquina virtual nueva.**
 
-**Puesto que en la práctica anterior usamos dos programas diferentes para hacer el
-balanceo, en esta práctica comprobaremos el rendimiento de la granja web cuando el
-balanceador es nginx y también cuando es haproxy, por lo que tendremos tres
-baterías de pruebas correspondientes a las tres configuraciones a evaluar: (1) servidor
-solo, (2) granja web con nginx, (3) granja web con haproxy.**
+**Puesto que en la práctica anterior usamos dos programas diferentes para hacer el balanceo, en esta práctica comprobaremos el rendimiento de la granja web cuando el balanceador es nginx y también cuando es haproxy, por lo que tendremos tres
+baterías de pruebas correspondientes a las tres configuraciones a evaluar: (1) servidor solo, (2) granja web con nginx, (3) granja web con haproxy.**
 
-**Se harán un mínimo de 10 mediciones para obtener media y desviación estándar con
-cada métrica recogida y se mostrarán los resultados en forma de tabla y gráficas para
-comparar los resultados obtenidos con las tres configuraciones.**
+**Se harán un mínimo de 10 mediciones para obtener media y desviación estándar con cada métrica recogida y se mostrarán los resultados en forma de tabla y gráficas para comparar los resultados obtenidos con las tres configuraciones.**
 
-**Para conseguir una mayor nota en esta práctica se propone buscar alguna otra
-herramienta para medir las prestaciones y utilizarla tanto con la máquina individual
-como con la granja web. Podemos usar cualquier herramienta de las comentadas al
-principio, o bien otra que encontremos o conozcamos.**
+**Para conseguir una mayor nota en esta práctica se propone buscar alguna otra herramienta para medir las prestaciones y utilizarla tanto con la máquina individual como con la granja web. Podemos usar cualquier herramienta de las comentadas al principio, o bien otra que encontremos o conozcamos.**
 
-**Como resultado de la práctica 4 se mostrará al profesor el funcionamiento de las
-herramientas. Asimismo, se redactará un documento en el que se describirán las
-baterías de tests realizadas (órdenes ejecutadas, etc), y se mostrarán los resultados
-obtenidos (tablas de tiempos, etc).**
+**Como resultado de la práctica 4 se mostrará al profesor el funcionamiento de las herramientas. Asimismo, se redactará un documento en el que se describirán las baterías de tests realizadas (órdenes ejecutadas, etc), y se mostrarán los resultados obtenidos (tablas de tiempos, etc).**
 
 Para realizar los benchmark se ha programado este script PHP en ambos servidores.
 <div align="center"><img src="img1.-script_S1.png"></div>
