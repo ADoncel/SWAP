@@ -7,4 +7,4 @@ Prácticas SWAP 2016
 * [Práctica 3](P3/README.md)
 * [Práctica 4](P4/README.md)
 * [Práctica 5](P5/README.md)
-* [Práctica 6]
+* [Práctica 6](P6/README.md)
