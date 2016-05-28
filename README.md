@@ -5,4 +5,4 @@
 * [Prácticas de ordenador](practicas_ordenador/README.md)
 * [Preguntas tipo test](preguntas_test/README.md)
 * [Ejercicios de teoría](trabajos_de_clase/README.md)
-* [Trabajo final teoría]()
+* Trabajo final teoría
